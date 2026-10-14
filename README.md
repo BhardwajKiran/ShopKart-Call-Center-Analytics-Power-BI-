@@ -172,5 +172,5 @@ Power BI (data modelling, DAX, conditional formatting, tooltips, slicer syncing)
 
 ## Author
 
-**Kiran** is a PL-300 certified analyst moving into data analyst and business analyst roles.
-[LinkedIn](#) · [Portfolio](#)
+Kiran Bhardwaj    
+[LinkedIn](https://www.linkedin.com/in/kiran-bhardwaj-70456342a/?isSelfProfile=true) 
